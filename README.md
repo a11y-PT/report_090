@@ -1,6 +1,6 @@
 ---
 website: "ANI - Agência Nacional de Inovação"          # Entre as aspas escreve o nome do website
-date: "31/12/1999"                    # Entre as aspas escreve a data de criação do 1º relatório. Os restantes estão no histórico
+date: "13/07/2026"                    # Entre as aspas escreve a data de criação do 1º relatório. Os restantes estão no histórico
 uri: "https://ani.pt/"   # Entre as aspas escreve o domínio do website
 a11y_statement: "https://ani.pt/acessibilidade-e-usabilidade/" # Entre as aspas escreve o URL da Declaração de Acessibilidade do website
 owner: "nome_do_proprietário"         # Entre as aspas escrever o nome do owner do website
